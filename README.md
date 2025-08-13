@@ -86,6 +86,10 @@ Launch Chrome, Firefox, and Edge browsers with Selenium WebDriver.
 2. [LaunchEdgeBrowser.java](https://github.com/amulsinfal/selenium-webdriver-programs/blob/master/src/test/java/programs/LaunchEdgeBrowser.java)  
 3. [LaunchFirefoxBrowser.java](https://github.com/amulsinfal/selenium-webdriver-programs/blob/master/src/test/java/programs/LaunchFirefoxBrowser.java)  
 
+### 12. 🧭 Navigation Commands
+Automates browser navigation actions such as **opening a new URL**, moving **back** and **forward** in history, and **refreshing** the page using WebDriver’s **navigate()** methods.  
+1. [Navigation.java](https://github.com/amulsinfal/selenium-webdriver-programs/blob/master/src/test/java/programs/Navigation.java)
+
 ---
 
 ## 📂 Folder Structure
