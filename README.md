@@ -90,14 +90,15 @@ Launch Chrome, Firefox, and Edge browsers with Selenium WebDriver.
 Automates browser navigation actions such as **opening a new URL**, moving **back** and **forward** in history, and **refreshing** the page using WebDriver’s **navigate()** methods.  
 1. [Navigation.java](https://github.com/amulsinfal/selenium-webdriver-programs/blob/master/src/test/java/programs/Navigation.java)
 
-### 13. ⬇️ Download Handling
-Automates handling of file downloads using Selenium.
+### 13. ⬇️ Uploading and Download File
+Automates handling of uploading and downloading of files using Selenium.
 1. [HandlingDownloads.java](https://github.com/amulsinfal/selenium-webdriver-programs/blob/master/src/test/java/programs/HandlingDownloads.java)
+2. [HandlingFileUpload.java](https://github.com/amulsinfal/selenium-webdriver-programs/blob/master/src/test/java/programs/HandlingFileUpload.java)
 
 ---
 
 ## 📂 Folder Structure
-<img width="390" height="983" alt="" src="https://github.com/user-attachments/assets/e5641208-d4fd-4e09-ad90-76e8c2950693" />
+<img width="390" height="983" alt="" src="https://github.com/user-attachments/assets/2b8444ac-859c-4107-b98b-cb7d72568775" />
 
 ---
 
